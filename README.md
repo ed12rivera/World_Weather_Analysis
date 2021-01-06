@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+The purpose of this project is to create an application that assists users with choosing an ideal vacation spot.  We begin by creating a list of random cities around the globe, and retrieving current weather data for the cities.  Then filter those cities using the user's preferences and give the user a list of cities that match their ideal vacation conditions.  We provide a heat map with markers for the different cities that match their preferences as well as provide a hotel in those cities where the user can stay.
